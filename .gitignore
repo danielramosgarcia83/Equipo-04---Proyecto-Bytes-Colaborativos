@@ -1,0 +1,10 @@
+.env
+.claude
+.mcp.json
+# IDE / build
+.idea/
+out/
+.atl/
+target/
+*.iml
+.DS_Store

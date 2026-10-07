@@ -1,0 +1,13 @@
+package fleetcontrol.ms_.maintenance;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsMaintenanceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsMaintenanceApplication.class, args);
+	}
+
+}

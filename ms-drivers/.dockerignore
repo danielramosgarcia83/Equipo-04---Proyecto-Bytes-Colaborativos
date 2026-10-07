@@ -1,0 +1,20 @@
+# Build output
+target/
+
+# Version control
+.git
+.gitignore
+
+# IDE and OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Environment and secrets
+.env
+.env.*
+
+# Logs and docs
+*.log
+HELP.md
